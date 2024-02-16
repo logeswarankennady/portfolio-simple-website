@@ -1,7 +1,26 @@
-Welcome to my portfolio website! This website showcases my skills, projects, and experiences in a visually appealing and user-friendly manner. Below, you'll find a brief description of the main pages of my website.
 
-Home Page
-The home page serves as the gateway to my portfolio. Upon landing here, visitors are greeted with an elegant and minimalist design that reflects my professional style. A concise introduction provides an overview of who I am and what I do, setting the tone for exploration. Navigation is intuitive, guiding visitors seamlessly through the various sections of the website. From here, users can easily navigate to other pages to delve deeper into my work and expertise.
+# My Portfolio Website
 
-Projects Page
-The projects page is where I showcase my portfolio of work in detail. Each project is presented with its own dedicated section, featuring captivating imagery, informative descriptions, and relevant links. Visitors can explore my diverse range of projects, from web development to graphic design, gaining insight into my skills and creativity. Additionally, interactive elements engage users, inviting them to interact with project demos or view additional resources. Whether you're a potential client, employer, or fellow enthusiast, this page offers a comprehensive overview of my capabilities and accomplishments.
+Welcome to my portfolio website! This website is a showcase of my skills, projects, and experiences designed and developed using HTML and CSS.
+
+## Overview
+My portfolio website serves as a central hub where visitors can learn more about me, my expertise, and the projects I've worked on. With a clean and modern design, the website aims to provide a user-friendly experience while highlighting my capabilities and accomplishments.
+
+## Features
+- **Home Page:** The home page introduces visitors to who I am and what I do. It offers a brief overview of my skills and directs users to explore further.
+  
+- **Projects Page:** The projects page showcases a selection of my work, complete with project descriptions, images, and links. Visitors can browse through my portfolio and gain insight into the range of projects I've undertaken.
+
+## Technologies Used
+- HTML: Used to structure the content of the website.
+- CSS: Used to style and layout the website, providing visual appeal and responsiveness across different devices.
+
+## How to View
+To view my portfolio website, simply click on the following link: 
+
+## Feedback
+I welcome any feedback or suggestions you may have regarding my portfolio website. Feel free to reach out to me via email or through GitHub.
+
+Thank you for visiting!
+```
+
